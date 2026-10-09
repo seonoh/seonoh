@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 266" font-family="SF Mono, Menlo, Consolas, monospace">
+  <rect x="1" y="1" width="338" height="264" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <circle cx="20" cy="20" r="5" fill="#ff5f57"/><circle cx="36" cy="20" r="5" fill="#febc2e"/><circle cx="52" cy="20" r="5" fill="#28c840"/>
+  <text x="170" y="24" text-anchor="middle" font-size="11" fill="#6e7781">a-day-in-the-life.log</text>
+  <line x1="72" y1="60" x2="72" y2="204" stroke="#d8dee4" stroke-width="2"/>
+  <line x1="72" y1="172" x2="72" y2="228" stroke="#d97757" stroke-width="2" stroke-dasharray="2 4"/>
+  <text x="22" y="64" fill="#6e7781" font-size="11">06:00</text>
+  <circle cx="72" cy="60" r="5" fill="#e3a73b"/>
+  <text x="86" y="64" fill="#1f2328" font-size="12" font-weight="700">Wake &amp; Review</text>
+  <text x="86" y="79" fill="#6e7781" font-size="10">approve · request changes</text>
+  <text x="22" y="100" fill="#6e7781" font-size="11">09:00</text>
+  <circle cx="72" cy="96" r="3.5" fill="#8b949e"/>
+  <text x="86" y="100" fill="#6e7781" font-size="12" font-weight="500">Bank</text>
+  <text x="86" y="115" fill="#6e7781" font-size="10">daeri mode</text>
+  <text x="22" y="136" fill="#6e7781" font-size="11">18:30</text>
+  <circle cx="72" cy="132" r="3.5" fill="#8b949e"/>
+  <text x="86" y="136" fill="#6e7781" font-size="12" font-weight="500">Clock out</text>
+  <text x="22" y="172" fill="#6e7781" font-size="11">20:00</text>
+  <circle cx="72" cy="168" r="3.5" fill="#f778ba"/>
+  <text x="86" y="172" fill="#6e7781" font-size="12" font-weight="500">Family</text>
+  <text x="86" y="187" fill="#6e7781" font-size="10">육아 · 집안일</text>
+  <text x="22" y="208" fill="#6e7781" font-size="11">22:00</text>
+  <circle cx="72" cy="204" r="5" fill="#d97757"/>
+  <text x="86" y="208" fill="#1f2328" font-size="12" font-weight="700">Agents on</text>
+  <text x="86" y="223" fill="#6e7781" font-size="10">Claude · Codex · Gemini · Hermes</text>
+  <text x="318" y="64" text-anchor="end" fill="#6e7781" font-size="14">☀</text>
+  <text x="318" y="208" text-anchor="end" fill="#6e7781" font-size="14">☾</text>
+  <text x="170" y="252" text-anchor="middle" fill="#6e7781" font-size="9.5" letter-spacing="1.5">BUILT WHILE THE CITY SLEEPS</text>
+</svg>
