@@ -32,7 +32,7 @@ const seonoh = {
   building: {
        aiTools: ["Retypo", "Imprompt", "LimitPing"],
        devTools: ["DevGrid"],
-      products: ["오늘뭐픽", "위즈테크", "seonoh.dev"],
+      products: ["오늘뭐픽", "seonoh.dev"],
       agentOps: ["Slack 에이전트 팀 — 기획·PM·검증·배포·콘텐츠"],
   },
   funFact: "에이전트 근무시간 24/7, 구독료는 월세 이상 😅",
@@ -66,11 +66,6 @@ const seonoh = {
   <td><b>오늘뭐픽</b></td>
   <td align="center">🔒</td>
   <td>팀 단위 점심 메뉴 투표 앱<br><sub>Flutter·Firebase · 에이전트가 맛집 수집 → 품질 게이트 검증 → 투표 후보 자동 보강</sub></td>
-</tr>
-<tr>
-  <td><b>위즈테크</b></td>
-  <td align="center">🔒</td>
-  <td>조명 전문 기업 웹사이트·관리자 페이지<br><sub>상품 상세 이미지 처리 파이프라인 · SEO 구조 설계 · 관리자에서 콘텐츠 직접 운영</sub></td>
 </tr>
 <tr>
   <td><a href="https://seonoh.dev"><b>seonoh.dev</b></a></td>
