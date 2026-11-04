@@ -1,4 +1,4 @@
-<img alt="Jerry Maguire yelling &quot;Help me... help me help you.&quot; That's what my agents say every night." src="./assets/help-me.gif" width="100%">
+<img alt="Carlton from The Fresh Prince of Bel-Air dancing with zero shame. That's me when the build passes on the first try." src="https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seonoh/seonoh/output/snake-dark.svg">
